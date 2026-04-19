@@ -7,6 +7,9 @@ Olá, Prazer! Meu nome é Giovanna Alves <img width="30" src="https://user-image
 Sou formada em Análise e Desenvolvimento de Sistemas e tenho um forte interesse em criar experiências visuais impactantes e funcionais para a web. Minha paixão por design e código me levou a trilhar o caminho do desenvolvimento front-end, unindo criatividade com tecnologia para transformar ideias em interfaces intuitivas.
 </p>
   <br>
+  <img width="41%" height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GiovannaAMidonz&layout=compact&hide_border=true&title_color=0175C2&text_color=FFFF&bg_color=0d1117"/>
+</div>
+
 <!--   <div style="display: inline_block"><br> -->
  <div align="left">
       <img alt="Gio-Csharp" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
@@ -28,6 +31,7 @@ Sou formada em Análise e Desenvolvimento de Sistemas e tenho um forte interesse
   <img  src="https://github-readme-activity-graph.vercel.app/graph?username=Gio-Midonz-Bots&radius=16&theme=github-dark&area=true&order=5&hide_title=false&hide_border=true" height="400" alt="activity-graph graph"  />
 </div> -->
 
+  
 
 
 
