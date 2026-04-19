@@ -8,20 +8,18 @@ Sou formada em Análise e Desenvolvimento de Sistemas e tenho um forte interesse
 </p>
   <br>
 <!--   <div style="display: inline_block"><br> -->
-  <div align="left">
-  <img align="center" alt="Gio-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Gio-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Gio-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
-  <img align="center" alt="Gio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Gio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Gio-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Gio-JS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-  <img align="center" alt="Gio-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> 
-  <img align="center" alt="Gio-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" />
-  <img  align="center" alt="Gio-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" />
-          
-          
-</div>
+ <div align="left">
+      <img alt="Gio-Csharp" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+      <img alt="Gio-Java" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+      <img alt="Gio-Spring" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
+      <img alt="Gio-HTML" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+      <img alt="Gio-CSS" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+      <img alt="Gio-JS" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+      <img alt="Gio-TS" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+      <img alt="Gio-React" height="35" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> 
+      <img alt="Gio-Angular" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angularjs/angularjs-original.svg" />
+      <img alt="Gio-Node" height="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" />      
+    </div>
   <br>
    <!-- <div style="display: flex"><br> -->
     <!-- <img width="49%" height="195px" src="https://awesome-github-stats.azurewebsites.net/user-stats/Gio-Midonz-Bots?cardType=level&theme=calm&preferLogin=false&Background=FFFFFF00&Text=14B2EE&Title=55A48C&Border=DDDDDD00&Ring=55A48C" />  -->
